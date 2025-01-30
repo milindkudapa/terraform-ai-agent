@@ -1,0 +1,8 @@
+streamlit>=1.22
+python-terraform>=0.10.1
+openai>=1.0
+python-dotenv>=0.19
+langchain>=0.1.0
+langchain-openai>=0.0.2
+chromadb>=0.4.22
+tiktoken>=0.5.2 
