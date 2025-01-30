@@ -23,7 +23,7 @@ An intelligent agent that generates Azure Terraform configurations using RAG (Re
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/terraform-ai-agent.git
+git clone https://github.com/milindkudapa/terraform-ai-agent.git
 cd terraform-ai-agent
 ```
 
@@ -122,6 +122,6 @@ MIT License - feel free to use this project for any purpose.
 
 ## Acknowledgments
 
-- OpenAI for GPT-4
+- OpenAI for GPT-4o
 - LangChain for the RAG framework
 - Streamlit for the UI framework 
