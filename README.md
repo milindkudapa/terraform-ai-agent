@@ -1,6 +1,6 @@
 # Terraform AI Agent
 
-An intelligent agent that generates Azure Terraform configurations using RAG (Retrieval Augmented Generation) and LangChain. The agent uses GPT-4 to understand infrastructure requirements and generate appropriate Terraform code based on validated templates.
+An intelligent agent that generates Azure Terraform configurations using RAG (Retrieval Augmented Generation) and LangChain. The agent uses GPT-4o to understand infrastructure requirements and generate appropriate Terraform code based on validated templates.
 
 ## Features
 
